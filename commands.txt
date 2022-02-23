@@ -12,3 +12,6 @@ git reset HEAD <file-name>
 
 # to reset the chnages made to a file to the last head (last commit)
 git checkout -- file-name
+
+#remove a file from the git and local dir 
+git rm <filename>
