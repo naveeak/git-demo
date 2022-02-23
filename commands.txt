@@ -5,4 +5,10 @@ git status
 git add README.md
 git status
 git commit -m "Initial commit"
-git commit -am "commit files with adding -a will add the all modified to changes"
+git commit -am "commit files with adding -a will add the all modified to change"git add .
+
+# to unstanges teh chnages 
+git reset HEAD <file-name>
+
+# to reset the chnages made to a file to the last head (last commit)
+git checkout -- file-name
