@@ -9,3 +9,5 @@ this is the first filr in this repo
 random data to look into the chnges.
 second commit
 
+## commands will have the current course commands
+## index file is template random file
