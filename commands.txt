@@ -23,3 +23,11 @@ git rm <filename>
 git add -u 
 
 git mv <src-file> <dest-dir>
+
+#ssh key steup
+mkdir ~/.ssh
+cd ~/.ssh
+ssh-keygen -t rsa -C "emailadd"
+#add the content of teh .pub file to the github account 
+ssh -T git@github.com # one time process
+
