@@ -15,5 +15,7 @@ git checkout -- file-name
 
 #remove a file from the git and local dir 
 git rm <filename>
-#if a file removed manuallu to track delete files
+#if a file removed moved to other dir manuallu to track delete files
 git add -u 
+
+git mv <src-file> <dest-dir>
