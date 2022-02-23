@@ -10,4 +10,7 @@ random data to look into the chnges.
 second commit
 
 ## commands will have the current course commands
-## index file is template random file
+## index file is template random fil
+
+list of file 
+1.index.html
