@@ -3,7 +3,9 @@
 git remote add origin git@github.com:naveeak/git-demo.git
 git remote -v # look into the remote repos
 git status
-git push -u origin maste
+git push -u origin master
+git remote add remote-name remote-repository-location
+git pull origin master
 
 git init [project-name optional]
 git status
