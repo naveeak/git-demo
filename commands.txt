@@ -1,0 +1,8 @@
+#commands used in this tutorial
+
+git init [project-name optional]
+git status
+git add README.md
+git status
+git commit -m "Initial commit"
+git commit -am "commit files with adding -a will add the all modified to changes"
