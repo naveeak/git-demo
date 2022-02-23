@@ -1,5 +1,9 @@
 #commands used in this tutorial
 
+git remote add origin git@github.com:naveeak/git-demo.git
+git status
+git push -u origin maste
+
 git init [project-name optional]
 git status
 git add README.md
